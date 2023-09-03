@@ -1,6 +1,6 @@
 # Apple Lisa
 
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"](https://en.wikipedia.org/wiki/Apple_Lisa#/media/File:Apple-lisa-1.jpg))
+![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"](https://en.wikipedia.org/wiki/Apple_Lisa#/media/File:Apple-lisa-1.jpg)
 
 
 
