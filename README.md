@@ -9,7 +9,4 @@ It has 10 MB internal hard drive and 1 MB of RAM and a Motorola 68000 CPU runnin
 It can ship with as low as 512 kilobytes and be upgraded to 2 MB. 
 My macbook pro 2022 has 8 GB of RAM and 512GB. The read speed is 5,319 MB/s and a write speed of 6,402 MB/s.
 
-# Picture of My Mac Book Pro
-
-![alt text](https://www.ubuy.com.jo/en/product/7APXGUVQW-2022-apple-macbook-pro-laptop-with-m2-chip-13-inch-retina-display-8gb-ram-256gb-ssd-storage-touch-bar#gallery-1)
-
+The Mac Book pro is easier to use and faster than the Apple Lisa and this is beacuse of many reasons, first the Apple Lisa is way older than the Mac bppk Pros which means ofcourse its goig to be used in a different and harder way. 
