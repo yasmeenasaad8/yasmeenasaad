@@ -1,4 +1,8 @@
-# yasmeenasaad
+# Apple Lisa
+
+![alt text](https://en.wikipedia.org/wiki/Apple_Lisa#/media/File:Apple-lisa-1.jpg)
+
+
 The apple lisa was a very expensive computer back in the 1980's it was around $10,000 but now it is definitely more expensive. It was very rare, that's why it was expensive. 
 It had two double sided 5.25 inch floppy disk drives It was the first personal computer with a graphical user interface (GUI). 
 It has 10 MB internal hard drive and 1 MB of RAM and a Motorola 68000 CPU running at 5 MHz. 
