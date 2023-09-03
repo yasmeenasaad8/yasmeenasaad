@@ -8,3 +8,7 @@ It had two double sided 5.25 inch floppy disk drives It was the first personal c
 It has 10 MB internal hard drive and 1 MB of RAM and a Motorola 68000 CPU running at 5 MHz. 
 It can ship with as low as 512 kilobytes and be upgraded to 2 MB. 
 My macbook pro 2022 has 8 GB of RAM and 512GB. The read speed is 5,319 MB/s and a write speed of 6,402 MB/s.
+
+# Picture of My Mac Book Pro
+![alt tex](https://www.cnet.com/tech/computing/apple-macbook-pro-m2-review-a-13-inch-throwback-with-the-new-m2-chip/)
+
