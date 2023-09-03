@@ -1,6 +1,6 @@
 # Apple Lisa
 
-![alt text](https://en.wikipedia.org/wiki/Apple_Lisa#/media/File:Apple-lisa-1.jpg)
+![alt text]([https://en.wikipedia.org/wiki/Apple_Lisa#/media/File:Apple-lisa-1.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b9/Apple-lisa-1.jpg)
 
 
 The apple lisa was a very expensive computer back in the 1980's it was around $10,000 but now it is definitely more expensive. It was very rare, that's why it was expensive. 
